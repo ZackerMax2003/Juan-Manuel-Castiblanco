@@ -1,15 +1,15 @@
 ![Juan Developer Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
 
-<img alt="Saludo" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>¡Hola! Soy Juan 👨‍💻</h2>
+<img alt="Saludo" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>¡Hola! Soy Juan Manuel Castiblanco 👨‍💻</h2>
 
 ### 👨🏻‍💻 &nbsp;Sobre mí
 
-💡 &nbsp;Apasionado por la tecnología, el desarrollo de software y la mejora continua.\
-🎓 &nbsp;Técnico/Tecnólogo en Análisis y Desarrollo de Software (SENA / otra institución).\
+💡 &nbsp;Apasionado por la tecnología, el desarrollo de software.\
+🎓 &nbsp;Técnico/Tecnólogo en Análisis y Desarrollo de Software (SENA).\
 🌱 &nbsp;En constante aprendizaje sobre desarrollo web, bases de datos y mejores prácticas de código limpio.\
 💬 &nbsp;Me interesa colaborar en proyectos sociales, soluciones locales y transformación digital.\
-✉️ &nbsp;Contáctame a: `juan.dev@email.com`\
-📄 &nbsp;Revisa mi [Hoja de Vida](https://link-a-tu-cv.com) para más detalles sobre mí.
+✉️ &nbsp;Contáctame a: `juancho73x@gmail.com`\
+📄 &nbsp;Revisa mi [Hoja de Vida](https://link-a-tu-cv.com) para más detalles sobre mí.s
 
 <img alt="Coding de noche" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -32,11 +32,14 @@
 
 ### 📊 &nbsp;Estadísticas de GitHub
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juanusuario&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanusuario&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
+### ⚙️ &nbsp;GitHub Analytics
 
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 ---
 
 ### 🤝🏻 &nbsp;Conectemos
