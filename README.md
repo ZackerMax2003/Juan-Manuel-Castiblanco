@@ -1,4 +1,5 @@
-[🎬 Ver video de presentación](https://cdn.pixabay.com/video/2016/08/22/4733-179738669_large.mp4)
+[![Juan Developer Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)](https://cdn.pixabay.com/video/2016/08/22/4733-179738669_large.mp4)
+
 
 
 <img alt="Saludo" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>¡Hola! Soy Juan Manuel Castiblanco 👨‍💻</h2>
