@@ -1,4 +1,5 @@
-[![Juan Developer Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)](https://cdn.pixabay.com/video/2016/08/22/4733-179738669_large.mp4)
+![Developer GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzNrZnl2cHRhdXdtejR6bjdrMW9zODZzMzlsYzVqczN1bW1xcGduaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lQDdDwdZpfYRn1MsJy/giphy.gif)
+
 
 
 
